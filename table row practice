@@ -1,1 +1,52 @@
+<!DOCTYPEhtml>
+<html>
 
+<body>
+
+<h1>opening of table</h1>
+
+<table>
+ <tr scope="col">
+   <th scope="col1">All the posibilities for coding jobs</th>
+   <th scope="col2">The requirements for coding jobs</th>
+   <th scope="col3">The time base for eduction to get a coding job</th>
+   <th scope="col4">Cost of obtaining a coding job</th>
+ </tr>
+ <tr scope="row">
+   <td scope="row1">Higher salary</td>
+   <td scope="row1">Less wear and tear on the body</td>                                                 <th> or <td>
+   <td scope="row1">Something I absolutely want to accomplish</td>
+   <td scope="row1">I am completely fascinated by programing</td>
+   <td scope="row1">I have wanted to go back to school</td>
+   <td scope="row1">The information I learn is so transferable to other fields of IT</td>
+   <td scope="row1">Programing is so dag-on FUN</td>
+  </tr>
+ <tr>
+  <td scope="row2">Biggest thing is time vs. work</td>
+  <td scope="row2">Proficiency in MANY areas not just programing!</td>
+  <td scope="row2">A good portfolio, resumee, and GitHub</td>
+  <td scope="row2">Hardware that can uphold the needs of programming</td>
+  <td scope="row2">Access to platforms with more information</td>
+  <td scope="row2">Hiiiiiiigh speed Internet!!!</td>
+  <td scope="row2">Motivation, determination, focus, and a learning everyday!</td>
+ </tr>
+ <tr>
+  <td scope="row3">UR is 24 weeks</td>
+  <td scope="row3">Learning has no time limit!</td>
+  <td scope="row3">Programs can be 3mo. - 2yr</td>
+  <td scope="row3">Coverage of bills, work, and time for learning</td>
+  <td scope="row3">The sky is the limit i need to be patient</td>
+  <td scope="row3">I do have much to learn</td>
+  <td scope="row3">I realize there is no certain time base to be put on learning</td>
+ </tr>
+ <tr>
+  <td scope="row4">UR is 10,900$ for "full stack"</td>
+  <td scope="row4">Coding Dojo is 15,000$ for a "3" stack</td>
+  <td scope="row4">Udemy has individualized lesson plans for any from 10$-*</td>
+  <td scope="row4">Codecademy just has a monthly subsciption base for their Ed.</td>
+  <td scope="row4">Pluralsight is also piece based on cost for learning</td>
+  <td scope="row4">KareerKarma has ISA so no payment until hired</td>
+  <td scope="row4">Other online camps will be flexible with ISA</td>
+ </tr>
+
+</body>
